@@ -1,0 +1,21 @@
+Тест: без ошибок
+----- ПРОТОКОЛ ----- 
+Выполнено: 03.06.2021 четверг 18:44:54
+
+----- ПАРАМЕТРЫ ----- 
+-in:	in.txt
+-log:	in.txt.log
+-out:	in.txt.out
+
+----- ИСХОДНЫЕ ДАННЫЕ ----- 
+abbg|abcfdfefbg|abbcfcfdfdfefefbbg|abbbcfcfcfdfdfdfefefefbbbg|abcfcfcfcfbg|abcfcfdfdfefefbg|abbbcfdfdfbg|acfdfefg|abcfdfefbggg
+Цепочка abbg распознана.
+Цепочка abcfdfefbg распознана.
+Цепочка abbcfcfdfdfefefbbg распознана.
+Цепочка abbbcfcfcfdfdfdfefefefbbbg распознана.
+Цепочка abcfcfcfcfbg распознана.
+Цепочка abcfcfdfdfefefbg распознана.
+Цепочка abbbcfdfdfbg распознана.
+Цепочка acfdfefg не распознана.
+ОШИБКА: строка 8, позиция 2
+

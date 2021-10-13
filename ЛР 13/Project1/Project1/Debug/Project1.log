@@ -1,0 +1,19 @@
+﻿Сборка начата 05.10.2021 16:18:24.
+Уровень детализации журнала: Normal.     1>Проект "D:\study\1 курс\ЯП\ЛР 13\Project1\Project1\Project1.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Project1.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         Project1.vcxproj -> D:\study\1 курс\ЯП\ЛР 13\Project1\Debug\Project1.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Project1.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Project1.tlog\Project1.lastbuildstate".
+     1>Сборка проекта "D:\study\1 курс\ЯП\ЛР 13\Project1\Project1\Project1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.47
